@@ -7,6 +7,6 @@ Easy install:
 3. replace secret at the bottom
 4. start bot
 
-commands:(ONLY WORKS FOR CLASSES GIVEN IN THE CODE)
-!addc (Add Class) : Allows users to give them a discord role
+commands:(ONLY WORKS FOR CLASSES GIVEN IN THE CODE)  
+!addc (Add Class) : Allows users to give them a discord role  
 !delc (Delete Class) : Allows users to remove their classes
