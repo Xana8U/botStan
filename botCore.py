@@ -4,7 +4,7 @@ from discord.ext import commands
 
 
 bot = commands.Bot(command_prefix="!")
-allowed_roles = ["knight", "wizard", "priest", "berzerker",
+allowed_roles = ["knight", "wizard", "priest", "berserker",
                  "heavy gunner", "assassin", "thief", "archer"]
 
 @bot.event
